@@ -1,3 +1,14 @@
+> **CultureReset fork of [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api).** A secure REST API and Model Context Protocol (MCP) server for your vault.
+>
+> - **Why it is here:** Saved as a reference while building NODE's agents, memory and tools.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** MIT, from upstream. For updates and issues, use [upstream](https://github.com/coddingtonbear/obsidian-local-rest-api).
+>
+> The upstream README follows unchanged.
+
+---
+
 # Local REST API with MCP
 
 Give your scripts, browser extensions, and AI agents a direct line into your Obsidian vault via a secure, authenticated REST API.
